@@ -321,7 +321,7 @@
         
         .silex-id-1478366450713-2 {
             min-height: 1110px;
-            background-color: rgba(68, 114, 194, 1);
+            background-color: rgba(255, 255, 255, 1);
             width: 1200px;
             top: 15px;
             left: 100px;
@@ -505,10 +505,18 @@
             left: 7px;
         }
         
+        .silex-id-1520833876923-1 {
+            width: 1173px;
+            background-color: rgba(68, 114, 194, 1);
+            min-height: 725px;
+            top: 12px;
+            left: 12px;
+        }
+        
         .silex-id-1520833326584-0 {
-            width: 1150px;
-            min-height: 714px;
-            top: 10px;
-            left: 33px;
+            width: 1142px;
+            min-height: 690px;
+            top: 12px;
+            left: 15px;
         }
     
